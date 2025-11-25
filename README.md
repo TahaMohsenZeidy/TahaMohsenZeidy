@@ -1,54 +1,66 @@
-# Hi, I'm Taha Mohsen Zaidi
+# Hey, I'm Taha
 
-## Platform Engineer | Infrastructure Automation Specialist
+## Platform Engineer building production infrastructure at scale
 
-**3+ years** managing production Kubernetes infrastructure at **Sorbonne University/CNRS LIP6**  
-  **CKA Certified** | **AWS Cloud Practitioner** | **Terraform Associate**  
-  **Paris, France** - Open to Platform Engineer opportunities
-
-### Technical Expertise
-
-**Infrastructure & Orchestration:**
-- Kubernetes: Production clusters, 50+ services, 80+ users
-- Terraform: Infrastructure as Code, automated provisioning  
-- Ansible: Configuration management, deployment automation
-- Linux: System administration, performance optimization
-
-**Cloud & Monitoring:**
-- OpenStack: Private cloud management
-- AWS: Cloud architecture and services
-- Grafana/Prometheus: Observability and alerting
-- Ceph: Distributed storage systems
-
-**Development:**
-- Python, Shell scripting, Java, JavaScript
-- React
-- Microservices, distributed systems
-
-### Current Role: Platform Engineer @ LIP6 - Sorbonne University
-
-- **Infrastructure Management**: Kubernetes clusters serving research workloads
-- **Automation**: Terraform/Ansible workflows reducing deployment time by 70%
-- **Reliability**: Maintaining 99.9% uptime for critical services
-- **Scale**: Supporting 80+ researchers across multiple projects
-
-### Certifications
-
-- **CKA**: Certified Kubernetes Administrator (Linux Foundation)
-- **AWS**: Cloud Practitioner (Amazon Web Services)  
-- **HashiCorp**: Terraform Associate
-- **Programming**: Python Certification (CertiPort)
-
-### GitHub Stats
-
-![Taha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TahaMohsenZeidy&show_icons=true&theme=radical)
-
-### Let's Connect
-
-- LinkedIn: [Taha Mohsen Zaidi](https://linkedin.com/in/your-profile)
-- Email: tahamohsen.zaidi@gmail.com
-- Location: Paris, France
-- Status: Open to Platform Engineer opportunities
+Currently managing **60+ Linux servers** and **production Kubernetes clusters** at **LIP6**  
+**CKA** | **AWS Certified** | **Terraform Associate**
 
 ---
-*Passionate about infrastructure automation, scalable systems, and bringing reliability to complex platforms.*
+
+## >> What I'm Working With at LIP6
+
+**Production Infrastructure:** Kubernetes • Rancher • Terraform • Ansible • 200+ monitored hosts  
+**Cloud & Virtualization:** OpenStack • VMware vSphere • KVM/Proxmox  
+**Monitoring:** Zabbix • Prometheus • Grafana  
+**Systems:** 60+ Linux servers (Ubuntu, CentOS, RHEL) • Network administration • Security hardening
+
+---
+
+## >> My Homelab
+
+Running enterprise tech at home because I can't stop building:
+
+**Infrastructure:** Proxmox • Rancher Kubernetes • DNS/DHCP  
+**DevOps:** GitLab • Docker runners • Private registry • Ansible AWX  
+**Services:** Vault • Minio • NFS • PostgreSQL  
+**Monitoring:** ELK Stack • Prometheus • Grafana • Zabbix  
+**Apps:** Full-stack deployment (FastAPI + React + Postgres) 
+**Automation:** Everything provisioned with Terraform, configured with Ansible
+
+*Testing tomorrow's production solutions today*
+
+---
+
+## >> [Linux with T](https://youtube.com/@LinuxwithT)
+
+Sharing what I learn through video tutorials:
+- Kubernetes migrations and deployments
+- Proxmox homelab setups
+- Docker and containerization
+- DevOps workflows and automation
+
+---
+
+## >> Currently
+
+**Linux Systems & DevOps Engineer @ LIP6**
+
+Managing production infrastructure • Kubernetes orchestration • Infrastructure automation • 99.9% uptime
+
+---
+
+## >> Let's Talk
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-mohsen-zaidi)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@LinuxwithT)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahamohsen.zaidi@gmail.com)
+
+[+] **Paris, France** | [!] **Open to Platform Engineer & DevOps opportunities**
+
+---
+
+![Taha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TahaMohsenZeidy&show_icons=true&theme=radical&count_private=true)
+
+---
+
+*Building reliable infrastructure. Automating everything. Learning in public.*
