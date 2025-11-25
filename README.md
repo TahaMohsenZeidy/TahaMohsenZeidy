@@ -59,7 +59,11 @@ Managing production infrastructure • Kubernetes orchestration • Infrastructu
 
 ---
 
-![Taha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TahaMohsenZeidy&show_icons=true&theme=radical&count_private=true)
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TahaMohsenZeidy&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
