@@ -59,12 +59,5 @@ Managing production infrastructure • Kubernetes orchestration • Infrastructu
 
 ---
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TahaMohsenZeidy&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
-
----
 
 *Building reliable infrastructure. Automating everything. Learning in public.*
